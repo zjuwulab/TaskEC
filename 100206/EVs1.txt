@@ -1,0 +1,9 @@
+condition	onset	duration
+2bk_tools	7.997	27.5
+0bk_body	36.132	27.5
+2bk_faces	79.221	27.5
+0bk_tools	107.45	27.5
+2bk_body	150.525	27.5
+2bk_places	178.607	27.5
+0bk_faces	221.842	27.5
+0bk_places	250.057	27.5
